@@ -1,0 +1,17 @@
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\bin\Debug\netcoreapp2.0\ActorClient1.deps.json
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\bin\Debug\netcoreapp2.0\ActorClient1.runtimeconfig.json
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\bin\Debug\netcoreapp2.0\ActorClient1.runtimeconfig.dev.json
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\bin\Debug\netcoreapp2.0\ActorClient1.dll
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\bin\Debug\netcoreapp2.0\ActorClient1.pdb
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\bin\Debug\netcoreapp2.0\HelloActor.exe
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\bin\Debug\netcoreapp2.0\HelloActor.Interfaces.dll
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\bin\Debug\netcoreapp2.0\HelloActor.Interfaces.pdb
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\bin\Debug\netcoreapp2.0\HelloActor.pdb
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\bin\Debug\netcoreapp2.0\HelloActor.exe.config
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\obj\Debug\netcoreapp2.0\ActorClient1.csprojResolveAssemblyReference.cache
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\obj\Debug\netcoreapp2.0\ActorClient1.csproj.CoreCompileInputs.cache
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\obj\Debug\netcoreapp2.0\ActorClient1.AssemblyInfoInputs.cache
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\obj\Debug\netcoreapp2.0\ActorClient1.AssemblyInfo.cs
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\obj\Debug\netcoreapp2.0\ActorClient1.csproj.CopyComplete
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\obj\Debug\netcoreapp2.0\ActorClient1.dll
+F:\ServiceFabricActor\HelloWorldExample\ActorClient1\obj\Debug\netcoreapp2.0\ActorClient1.pdb
