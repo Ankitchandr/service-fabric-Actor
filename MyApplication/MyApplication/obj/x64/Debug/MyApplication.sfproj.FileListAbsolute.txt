@@ -1,0 +1,1 @@
+F:\Servicefabric\MyApplication\MyApplication\obj\x64\Debug\MyApplication.sfproj.CoreCompileInputs.cache
